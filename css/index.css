@@ -27,7 +27,7 @@ h1,h2,h3,h4,p{
 	display: block;
 	width: 100%;
 }
-@media all and (max-width: 930){
+@media all and (max-width: 930px){
 	.box{
 		width: 100%;
 		height: auto;
