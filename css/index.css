@@ -186,6 +186,7 @@ h1,h2,h3,h4{
 }
 .code-img{
 	width: 40%;
+	float: left;
 }
 .code-img img{
 	display: block;
