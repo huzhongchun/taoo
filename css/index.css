@@ -33,11 +33,11 @@ h1,h2,h3,h4{
 	font-size: 16px;
 }
 .header-box{
-	background: url(../images/head_bg.jpg) center no-repeat;
+	background: url(../images/head_bg.jpg?2) center no-repeat;
 	background-size: cover;
 	overflow: hidden;
 	width: 100%;
-	min-height: 650px;
+	height: 530px;
 	position: relative;
 }
 .centent-box{
