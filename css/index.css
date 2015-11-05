@@ -33,7 +33,7 @@ h1,h2,h3,h4{
 	font-size: 16px;
 }
 .header-box{
-	background: url(../images/head_bg.jpg) 0 0 no-repeat;
+	background: url(../images/head_bg.jpg) center no-repeat;
 	background-size: cover;
 	overflow: hidden;
 	width: 100%;
@@ -41,7 +41,7 @@ h1,h2,h3,h4{
 	position: relative;
 }
 .centent-box{
-	width: 1400px;
+	width: 80%;
 	overflow: hidden;
 	margin: -60px auto 0;
 	position: relative;
