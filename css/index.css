@@ -228,6 +228,7 @@ h1,h2,h3,h4{
 		width: 100%;
 	}
 	.member-pic{
+		display: block;
 		width: 80%;
 		margin: 0 auto;
 	}
@@ -235,8 +236,8 @@ h1,h2,h3,h4{
 		display: block;
 	    font-size: 16px;
 	    width: 100%;
-	    margin-left: 10%;
-	    margin-left: 7%;
+	    margin-left: 0;
+	    padding-top: 0;
 	}
 }
 
