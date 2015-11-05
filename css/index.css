@@ -179,10 +179,18 @@ h1,h2,h3,h4{
 .contact-list{
 	list-style-type: disc;
 	font-size: 20px;
-	padding: 50px;
+	padding: 5%;
 	line-height: 30px;
+    width: 50%;
+    float: left;
 }
-
+.code-img{
+	width: 40%;
+}
+.code-img img{
+	display: block;
+	width: 100%;
+}
 
 
 .inline-img{
