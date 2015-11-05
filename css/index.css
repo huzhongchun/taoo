@@ -19,7 +19,13 @@ h1,h2,h3,h4{
 	padding: 0;
 	font-size: 100%;
 }
-
+.clearfloat:after{
+	content: " ";
+	display: block;
+	clear: both;
+	height: 0;
+	visibility: hidden;
+}
 #body-container{
 	width: 100%;
 	min-width: 1920px;
@@ -28,7 +34,7 @@ h1,h2,h3,h4{
 	font-size: 16px;
 }
 .header-box{
-	background: url(../images/header_bg.jpg) 0 0 no-repeat;
+	background: url(../images/head_bg.jpg) 0 0 no-repeat;
 	background-size: 100% auto;
 	overflow: hidden;
 	width: 100%;
@@ -45,13 +51,21 @@ h1,h2,h3,h4{
 
 .foorter-box{
 	width: 100%;
-	padding:  50px;
+	padding:  50px 80px;
 	color: #fff;
 	font-size: 18px;
-	line-height: 30px;
+	line-height: 40px;
+	background: #AF3E3E;
 }
 .c-name{
 	font-size: 30px;
+}
+
+.intro-area img{
+	display: block;
+}
+.intro-txt{
+	
 }
 
 
