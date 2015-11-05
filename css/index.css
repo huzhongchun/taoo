@@ -47,6 +47,7 @@ h1,h2,h3,h4{
 	position: relative;
 	z-index: 2;
 	background:#fff;
+	padding: 20px;
 }
 
 #footer{
@@ -92,5 +93,70 @@ h1,h2,h3,h4{
 .head-tab li a:visited{
 	color: #fff;
 }
+.copy-right{
+	font-size: 14px;
+	color: #000;
+	text-align: center;
+	padding: 10px 0;
+}
+.explain-right{
+	text-align: right;
+	font-size: 14px;
+}
+
+
+.member-detial{
+	font-size: 0;
+}
+.member-pic{
+	display: inline-block;
+}
+.member-pic img{
+	display: block;
+}
+.member-info{
+	display: inline-block;
+}
+
+.total-intro{
+	display: block;
+}
+.first-img-box{
+	width: 100%;
+}
+.first-img-box img{
+	display: block;
+	width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
