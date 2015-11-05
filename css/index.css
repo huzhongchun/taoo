@@ -116,15 +116,24 @@ h1,h2,h3,h4{
 
 .member-detial{
 	font-size: 0;
+	margin-bottom: 50px;
 }
 .member-pic{
 	display: inline-block;
+	width: 50%;
 }
 .member-pic img{
 	display: block;
+	width: 100%;
 }
 .member-info{
 	display: inline-block;
+	font-size: 16px;
+	width: 40%;
+	margin-left: 10%;
+	vertical-align: top;
+	margin-left: 7%;
+	padding-top: 20%;
 }
 
 .total-intro{
@@ -153,13 +162,15 @@ h1,h2,h3,h4{
 }
 .left-img img{
 	display: block;
+	width: 100%;
 }
 
 
 .title-area{
 	font-size: 25px;
 	color: #ff0000;
-	float: left;
+	width: 100%;
+	display: block;
 }
 
 
