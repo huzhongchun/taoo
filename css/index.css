@@ -42,15 +42,18 @@ h1,h2,h3,h4{
 	position: relative;
 }
 .centent-box{
-	width: 1120px;
+	width: 1400px;
 	overflow: hidden;
 	margin: -60px auto 0;
 	position: relative;
 	z-index: 2;
+	background:#fff;
 }
 
-.foorter-box{
+#footer{
 	width: 100%;
+}
+.foorter-box{
 	padding:  50px 80px;
 	color: #fff;
 	font-size: 18px;
@@ -65,7 +68,7 @@ h1,h2,h3,h4{
 	display: block;
 }
 .intro-txt{
-	
+
 }
 
 
