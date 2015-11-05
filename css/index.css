@@ -73,19 +73,21 @@ h1,h2,h3,h4{
 .head-tab{
 	list-style-type: none;
     position: absolute;
-    top: 5%;
+    top: 0;
     right: 5%;
     color: #fff;
 }
 .head-tab li{
-	width: 70px;
 	cursor: pointer;
+	padding: 10px 15px;
+	float: left;
 }
 .head-tab li:hover{
 	background: #D62377;
 }
 .head-tab li a{
 	text-decoration: none;
+	color: #fff;
 }
 .head-tab li a:visited{
 	color: #fff;
