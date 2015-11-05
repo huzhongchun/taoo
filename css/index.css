@@ -28,17 +28,16 @@ h1,h2,h3,h4{
 }
 #body-container{
 	width: 100%;
-	min-width: 1920px;
 	margin: 0 auto;
 	background: #fff;
 	font-size: 16px;
 }
 .header-box{
 	background: url(../images/head_bg.jpg) 0 0 no-repeat;
-	background-size: 100% auto;
+	background-size: cover;
 	overflow: hidden;
 	width: 100%;
-	min-height: 728px;
+	min-height: 650px;
 	position: relative;
 }
 .centent-box{
